@@ -28,3 +28,13 @@ Implement the basic API functionality and have an introductory understanding of:
 
 
 Line25 lauchSettings.json: true -> false
+
+
+Learing Goals: Complete the walking skeleton and have an introduction understanding of:
+1. Using the Angular CLI
+2. How to create a new Angular app
+3. The angular project files
+4. The Angular bootstrap process
+5. Using the Angular HTTP ClienServices
+6. Running an Angular app over HTTPS
+7. How to add packages using NPM
