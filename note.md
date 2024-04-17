@@ -38,3 +38,22 @@ Learing Goals: Complete the walking skeleton and have an introduction understand
 5. Using the Angular HTTP ClienServices
 6. Running an Angular app over HTTPS
 7. How to add packages using NPM
+
+
+Learning Goals: Implement basic authentication in our app and have an understanding of:
+1. How to store passwords in the Database
+2. Using inheritance in C# - DRY
+3. Using the C# Debugger
+4. Using Data Transfer Objects (DTOs)
+5. Validation
+6. JSON Web Tokens(JWTs)
+7. Using services in C#
+8. Middleware
+9. Extension methods - DRY
+
+Where do i start? 
+Requirements: 
+- Users should be able to log in
+- Users should be able to register
+- Users should be able to view other users
+- Users should be able to privately message other users

@@ -17,10 +17,13 @@ export class AppComponent implements OnInit{
   }
 
   getUsers() {
-    this.http.get('http://localhost:5176/api/users').subscribe(response => {
+    this.http.get('http://localhost:5176/api/users').subscribe({
+      next: response => {
       this.users = response;
-    }, error => { 
+      }, 
+      error: error => { 
       console.log(error);
+      }
     })
   }
 }
