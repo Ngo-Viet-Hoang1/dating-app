@@ -1,14 +1,3 @@
-install .net
-install postman
-
-1. Java Script 1 tuần
-2. HTML 1 tuần
-3. CSS 1 tuần
-4. Tìm hiểu qua về Angular và ASP .NET Core
-5. Code project Dating App 2 lần (2 tuần - 1 tháng)
-
-Đây là  list các ngôn ngữ và project cần học trước khi vào dự án nhé,những bạn mới đến chú ý giúp a nhé
-
 Source code to build app: https://github.com/TryCatchLearn/DatingApp
 
 II. Learning Goals
@@ -57,3 +46,12 @@ Requirements:
 - Users should be able to register
 - Users should be able to view other users
 - Users should be able to privately message other users
+
+Learing Goals: Implement the login and register functionality into the app as well as understanding:
+1. Creating oponents using the Angular CLI
+2. Using Angular Template forms
+3. Using Angular services
+4. Understanding Observables
+5. Using Anular structural directives to conditionally display elements on a page
+6. Component communication from parent to child
+7. Component communication from child to parent
