@@ -55,3 +55,14 @@ Learing Goals: Implement the login and register functionality into the app as we
 5. Using Anular structural directives to conditionally display elements on a page
 6. Component communication from parent to child
 7. Component communication from child to parent
+
+Learing Goals: Implemetn routing in our Angular app and have an understanding of:
+1. Angular routing
+2. Adding a bootstrap theme
+3. Using Angular route guards
+4. Using a Shared Module
+not sure about video 32
+
+
+Video 50/51 may get error
+Video may safe to 62
