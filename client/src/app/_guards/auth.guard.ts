@@ -8,14 +8,13 @@ import { Observable, map } from 'rxjs';
   providedIn: 'root'
 })
 export class AuthGuard implements CanActivate {
-  constructor(private accountService: AccountService, private toastr: ToastrService, private router: Router) {}
+  constructor(private accountService: AccountService, private toastr: ToastrService) {}
 
   canActivate(): Observable<boolean>  {
     return this.accountService.currentUser$.pipe(
       map(user => {
         if (user) return true;
-        this.toastr.error('You shall not pass!');// Redirect to login page
-        this.router.navigate(['/']);
+        this.toastr.error('You shall not pass!');
       })
     );
   }

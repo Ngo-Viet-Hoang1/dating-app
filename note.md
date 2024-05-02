@@ -63,6 +63,8 @@ Learing Goals: Implemetn routing in our Angular app and have an understanding of
 4. Using a Shared Module
 not sure about video 32
 
+Learing Goals: Implement global han
+
 
 Video 50/51 may get error
 Video may safe to 62
