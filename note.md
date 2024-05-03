@@ -56,14 +56,25 @@ Learing Goals: Implement the login and register functionality into the app as we
 6. Component communication from parent to child
 7. Component communication from child to parent
 
-Learing Goals: Implemetn routing in our Angular app and have an understanding of:
+Learing Goals: Implement routing in our Angular app and have an understanding of:
 1. Angular routing
 2. Adding a bootstrap theme
 3. Using Angular route guards
 4. Using a Shared Module
 not sure about video 32
 
-Learing Goals: Implement global han
+Learing Goals: Implement global error handling in both the API and the Angular application. Also to have an understanding of:
+1. API Middleware
+2. Angular Interceptors
+3. Troubleshootung exceptions
+
+Learing Goals: Implement further functionality into our API and gain an understanding of:
+1. Entity Frameword Relationships
+2. Entity Framework Convetions
+3. Seeding Data into the Database
+4. The repository pattern
+5. Using AutoMapper
+
 
 
 Video 50/51 may get error
