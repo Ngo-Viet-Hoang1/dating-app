@@ -75,6 +75,13 @@ Learing Goals: Implement further functionality into our API and gain an understa
 4. The repository pattern
 5. Using AutoMapper
 
+Learning Goals: Implement the components that make up the user interface in our client application and gain an understanding of:
+1. Using Typescript types
+2. Using the async pipe
+3. Using bootstrap for styling
+4. Basic css tricks to enhance the look
+5. Using a 3rd party photo gallery
+
 
 
 Video 50/51 may get error
