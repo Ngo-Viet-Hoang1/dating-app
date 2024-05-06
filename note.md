@@ -91,7 +91,37 @@ Implement persistence when updating resources in the API and gaining an understa
 5. Adding loading indicators to the client app
 6. Caching data in Angular services
 
+LEARNING GOALS
+Implement photo upload functionality in the application and gain an understanding of the following:
+1. Photo storage options
+2. Adding related entities
+3. Using a 3rd party API
+4. Using the Debugger (again!)
+5. Updating and deleting resources
+6. What to return when creating resources in a REST based API
 
+LEARNING GOALS
+Implement more advanced forms using Reactive Forms in Angular and understand how to:
+1. Use Reactive Forms
+2. Use Angular Validation for inputs
+3. Implement custom validators
+4. Implement reusable form controls
+5. Working with Date inputs
+
+LEARNING GOALS
+Implement paging, sorting, filtering and gain an understanding of the following:
+1. How to implement pagination on the API & client
+2. Deferred Execution using IQueryable
+3. How to implement filtering on the API & client
+4. How to implement sorting on the API & client
+5. Using Action Filters
+6. Adding a TimeAgo pipe
+7. Implement caching in the client for paginated resources
+
+LEARNING GOALS
+Implement the 'like user' functionality and gain an understanding of the following:
+1. Many to many relationships
+2. Configuring entities in the DbContext
 
 Video 50/51 may get error
 Video may safe to 62
