@@ -122,6 +122,3 @@ LEARNING GOALS
 Implement the 'like user' functionality and gain an understanding of the following:
 1. Many to many relationships
 2. Configuring entities in the DbContext
-
-Video 50/51 may get error
-Video may safe to 62
