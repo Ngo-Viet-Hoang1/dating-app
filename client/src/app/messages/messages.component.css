@@ -1,0 +1,11 @@
+.btn-group {
+    display: inline;
+}
+
+img {
+    max-height: 50px;
+}
+
+.float-right {
+    float: right;
+}

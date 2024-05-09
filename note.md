@@ -122,3 +122,9 @@ LEARNING GOALS
 Implement the 'like user' functionality and gain an understanding of the following:
 1. Many to many relationships
 2. Configuring entities in the DbContext
+
+LEARNING GOALS
+Implement the Messaging functionality and gain an understanding of the following:
+1. More many to many to many relationships
+2. Using query params in Angular
+3. Using Route resolvers in Angular
